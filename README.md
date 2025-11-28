@@ -1,6 +1,6 @@
 # Portfolio React App
 
-This project is a personal portfolio built with React. It showcases skills, projects, experience, and provides a clean, accessible interface for potential clients or employers.
+This project is a personal portfolio built with React. It showcases skills, projects, experience with contact option.
 
 ## Features
 
@@ -13,8 +13,8 @@ This project is a personal portfolio built with React. It showcases skills, proj
 ## Tech Stack
 
 * **React**
-* **Vite / CRA** (depending on your setup)
-* **CSS / TailwindCSS** (whichever you're using)
+* **Vite**
+* **TailwindCSS**
 * **React Router** for navigation
 
 ## Folder Structure
