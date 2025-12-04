@@ -5,6 +5,8 @@ import Experience from './components/Experience';
 import Skills from './components/Skills';
 import ChatWidget from './components/ChatWidget';
 import Contact from './components/Contacts';
+import './styles/global.css';
+import BookPortfolio from './components/BookPortfolio';
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
       <Hero />
       <Experience />
       <Skills />
+      <BookPortfolio/>
       <Contact />
       {/* <ChatWidget /> */}
     </Layout>

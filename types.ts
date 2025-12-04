@@ -33,5 +33,6 @@ export enum SectionId {
   ABOUT = 'about',
   EXPERIENCE = 'experience',
   SKILLS = 'skills',
-  CONTACT = 'contact'
+  CONTACT = 'contact',
+  PORTFOLIO = 'portfolio'
 }

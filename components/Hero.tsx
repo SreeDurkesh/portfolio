@@ -47,7 +47,7 @@ const Hero: React.FC = () => {
                    className="w-6 h-6 transition-all duration-300" 
                  />
                </a>
-               <a href="mailto:sree@example.com" className="p-3 text-slate-400 hover:text-white hover:bg-white/10 rounded-full transition-all border border-transparent hover:border-white/10">
+               <a href="mailto:durkeshsree@gmail.com" className="p-3 text-slate-400 hover:text-white hover:bg-white/10 rounded-full transition-all border border-transparent hover:border-white/10">
                  <Mail className="w-6 h-6" />
                </a>
             </div>

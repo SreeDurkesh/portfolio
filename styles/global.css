@@ -1,0 +1,10 @@
+.cinematic-strip {
+  perspective: 1200px;
+}
+.frame {
+  transform: rotateY(-8deg);
+}
+.frame:hover {
+  transform: rotateY(0deg) translateY(-4px);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.35);
+}
