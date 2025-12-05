@@ -121,7 +121,7 @@ const Experience: React.FC = () => {
                 <ScrollReveal>
                   <div
                     key={`${rowIdx}-${colIdx}`}
-                    className="bg-slate-900/60 backdrop-blur-xl p-6 rounded-3xl border border-slate-800 shadow-lg flex items-start gap-4"
+                    className="bg-slate-900/60 backdrop-blur-xl p-6 rounded-3xl border border-slate-800 shadow-lg flex items-start gap-4 items-center"
                   >
                     <div className="w-12 h-12 bg-secondary-500/20 rounded-xl flex items-center justify-center text-white text-xl">
                       {getIcon(point)}
