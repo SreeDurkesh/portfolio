@@ -61,12 +61,12 @@ const Skills: React.FC = () => {
                 <div className="p-4 bg-slate-800/50 rounded-lg border border-slate-700">
                   <Database className="w-6 h-6 text-green-400 mb-2" />
                   <div className="font-bold text-slate-200">Data</div>
-                  <div className="text-xs text-slate-500">PostgreSQL, Optimization</div>
+                  <div className="text-xs text-slate-500">PostgreSQL, Optimization, Supabase</div>
                 </div>
                 <div className="p-4 bg-slate-800/50 rounded-lg border border-slate-700">
                   <Cpu className="w-6 h-6 text-orange-400 mb-2" />
                   <div className="font-bold text-slate-200">AI / LLM</div>
-                  <div className="text-xs text-slate-500">Gemini, GenAI Integration</div>
+                  <div className="text-xs text-slate-500">Gemini, GPT, GenAI Integration</div>
                 </div>
               </div>
 

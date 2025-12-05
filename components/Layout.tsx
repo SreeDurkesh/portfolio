@@ -23,9 +23,9 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 
   const navLinks = [
     { label: 'About', id: SectionId.HERO },
-    { label: 'Experience', id: SectionId.EXPERIENCE },
-    { label: 'Skills', id: SectionId.SKILLS },
     { label: 'Overview', id: SectionId.PORTFOLIO },
+    { label: 'Experience', id: SectionId.EXPERIENCE },
+    { label: 'Skills', id: SectionId.SKILLS },    
     { label: 'Contact', id: SectionId.CONTACT },
   ];
 

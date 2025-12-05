@@ -12,9 +12,9 @@ function App() {
   return (
     <Layout>
       <Hero />
-      <Experience />
-      <Skills />
       <BookPortfolio/>
+      <Experience />
+      <Skills />      
       <Contact />
       {/* <ChatWidget /> */}
     </Layout>

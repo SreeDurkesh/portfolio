@@ -209,7 +209,7 @@ const Experience: React.FC = () => {
                         {job.tech.map((t, i) => (
                           <span
                             key={i}
-                            className="text-xs font-medium text-slate-300 bg-slate-800 border border-slate-700 px-2 py-1 rounded-md hover:border-primary-500/50 hover:bg-slate-750 transition-all duration-200"
+                            className="text-xs font-medium text-slate-300 bg-slate-800 border border-slate-700 px-2 py-1 rounded-md hover:border-primary-500/50 hover:bg-slate-750 transition-all duration-200 cursor-pointer"
                             style={{
                               transitionDelay: `${i * 50}ms`,
                               opacity: isVisible ? 1 : 0,

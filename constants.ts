@@ -10,15 +10,15 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
     role: 'Associate Developer Lead',
     company: 'Vinsinfo, Chennai, TN',
     period: 'Apr 2024 - Present',
-    description: 'Led full-stack and hybrid mobile development for international clients. Owned product delivery from requirements to deployment. Delivered high-priority projects on tight deadlines, optimized PostgreSQL performance, and established team coding standards. Drive technical strategy, cross-team coordination, and engineering best practices.',
-    tech: ['Architecture', 'Team Leadership', 'Full Stack', 'PostgreSQL', 'Microservices']
+    description: 'Led full stack and hybrid mobile development for international clients, owning delivery from requirements to deployment. Delivered high-priority projects under tight deadlines, improved PostgreSQL performance, and established teamwide coding standards. Drove technical strategy, cross-team alignment, and consistent engineering best practices.',
+    tech: ['Architecture', 'Team Leadership', 'Full Stack', 'PostgreSQL', 'Microservices', 'React Native']
   },
   {
     id: 'exp-2',
     role: 'Senior Full-Stack Developer',
     company: 'Vinsinfo, Chennai, TN',
     period: 'Apr 2023 - Mar 2024',
-    description: 'Architected enterprise applications (Angular/Node.js) supporting high user concurrency. Led team building real-time collaboration platform with CRDT-based conflict resolution. Built production REST APIs with OpenAI GPT integration for meeting summarization and action-item extraction. Led full project execution from architecture to production.',
+    description: 'Architected enterprise applications for high-concurrency users. Led team building a real-time collaboration platform with CRDT-based conflict resolution. Developed production REST APIs integrating OpenAI GPT for meeting summarization and action-item extraction. Oversaw full project execution from architecture to production.',
     tech: ['Angular', 'Node.js', 'React', 'TypeScript', 'PostgreSQL', 'Ionic', 'Electron', 'Python']
   },
   {
@@ -26,7 +26,7 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
     role: 'Associate Software Developer',
     company: 'Vinsinfo, Chennai, TN',
     period: 'Apr 2021 - Mar 2023',
-    description: 'Developed production Angular applications with authentication, data visualization, and real-time updates. Built Node.js/Express REST APIs with JWT authentication and rate limiting. Delivered Ionic/Angular hybrid mobile app with offline-first architecture using IndexedDB & SQLite.',
+    description: 'Developed production Angular apps with authentication, data visualization, and real-time updates. Built Node.js/Express REST APIs with JWT authentication and rate limiting. Delivered Ionic/Angular hybrid mobile apps with offline-first architecture using IndexedDB and SQLite.',
     tech: ['HTML/CSS', 'JavaScript', 'Angular', 'Express']
   }
 ];
@@ -57,10 +57,10 @@ export const SKILL_METRICS: SkillMetric[] = [
 
 
 export const LEADERSHIP_POINTS = [
-  "Define technical direction for multi-platform ecosystems, ensuring every architectural decision supports long-term scalability and maintainability.",
-  "Coordinate engineers, designers, QA, and cloud teams to deliver large-scale applications with predictable velocity and controlled risk.",
-  "Transform vague business requirements into concrete system designs, domain models, integration contracts, and execution plans.",
-  "Oversee the complete delivery lifecycle—from architecture to deployment—while enforcing performance, security, and reliability standards.",
+  "Define the technical direction for multi-platform systems, ensuring architecture stays scalable and easy to maintain as the product grows.",
+  "Coordinate designers, QA, and cloud teams to deliver large-scale applications with predictable velocity and controlled risk.",
+  "Turn unclear business requirements into solid system designs, domain models, integration contracts, and clear execution plans.",
+  "Oversee the full delivery lifecycle from architecture to deployment, ensuring performance, security, and reliability standards are consistently upheld.",
   "Elevate engineering quality through structured reviews, coding standards, paired design sessions, and continuous mentoring.",
   "Optimize systems end-to-end, from database indexing strategies to frontend rendering pipelines, removing bottlenecks before they surface.",
   "Manage direct communication with international stakeholders, aligning delivery timelines and scope."
@@ -87,7 +87,7 @@ export const BOOK_PAGES = [
       },
       {
         type: 'text',
-        content: 'A passionate Full-Stack Technical Lead with 4+ years of experience in architecting high-traffic web and mobile platforms for international SaaS clients. I specialize in turning complex business requirements into scalable technical solutions.'
+        content: 'A Full Stack Technical Lead with more than four years of experience building and scaling high-traffic web and mobile platforms for international SaaS products. Known for turning complex and often shifting business requirements into clean, scalable technical architectures that hold up in real production environments.'
       },
       {
         type: 'stats',

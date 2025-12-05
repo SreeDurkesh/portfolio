@@ -51,7 +51,7 @@ const BookPortfolio: React.FC = () => {
     return (
         <section id={SectionId.PORTFOLIO} className="min-h-screen py-16 px-4 pb-10 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
             <div className="max-w-6xl mx-auto flex flex-col gap-12">
-                <h1 className="text-4xl md:text-6xl font-extrabold text-center text-primary-400">
+                <h1 className="text-4xl md:text-5xl font-extrabold text-center text-primary-400">
                     My Portfolio
                 </h1>
                 <p className="text-center text-gray-300 max-w-2xl mx-auto text-lg">
