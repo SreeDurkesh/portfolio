@@ -148,11 +148,11 @@ export const BOOK_PAGES = [
       {
         type: 'hobbies',
         "items": [
-        { name: "Analyzation", description: "Breaking down complex problems into manageable tasks", icon: "search" },
-        { name: "Requirement Gathering", description: "Collaborating with stakeholders to define clear project goals", icon: "clipboard" },
-        { name: "Planning", description: "Creating detailed roadmaps and strategies for project execution", icon: "calendar" },
-        { name: "Kickstart Projects", description: "Setting up projects with best practices from the start", icon: "flag" }
-      ]
+          { name: "Requirement Gathering", description: "Collaborating with stakeholders to define clear project goals", icon: "clipboard" },
+          { name: "Analyzation", description: "Breaking down complex problems into manageable tasks", icon: "search" },
+          { name: "Planning", description: "Creating detailed roadmaps and strategies for project execution", icon: "calendar" },
+          { name: "Kickstart Projects", description: "Setting up projects with best practices from the start", icon: "flag" }
+        ]
       },
       {
         type: 'text',
